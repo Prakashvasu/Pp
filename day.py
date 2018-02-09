@@ -4,4 +4,4 @@ if(day=='saturday'):
 if(day= 'Sunday') :
   print(' yes') 
 else:
- print('no') 
+ print('holiday') 
