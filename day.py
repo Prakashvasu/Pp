@@ -1,7 +1,7 @@
 day=input("Enter day:") 
 if(day=='saturday'):
-  print('yes') 
-if(day= 'Sunday') :
-  print(' yes') 
+  print('holiday ') 
+if(day= 'sunday') :
+  print('holiday') 
 else:
- print('holiday') 
+ print('no') 
